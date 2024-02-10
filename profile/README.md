@@ -8,8 +8,15 @@ HorizonDroid
 Welcome to HorizonDroid!
 
 HorizonDroid Base On Aosp and PixelExperience allows users to experience Google's latest Pixel updates while integrating useful features from known custom ROMs.
-
 We currently support Android 13, with the latest security patches from Google.
+
+### Quick Source Initialization ###
+```bash
+- HorizonDroid A14 (Ready)
+repo init -u https://github.com/HorizonDroid-13 -b 13 --git-lfs
+repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
+```
+[More build information](https://github.com/HorizonDroid-13/manifest)
 
 ### Important Links
 
