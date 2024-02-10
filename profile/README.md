@@ -31,5 +31,4 @@ repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
  * [**LineageOS**](https://github.com/LineageOS)
  * [**DroidX-UI**](https://github.com/DroidX-UI)
  * [**AfterlifeOS**](https://github.com/AfterLifePrjkt13)
- * [**AOSP for Nabu/Marble**](https://github.com/Nabu-upsidedowncake)
  * [**Evolution-X**](https://github.com/Evolution-X)
