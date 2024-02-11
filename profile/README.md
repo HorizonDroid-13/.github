@@ -27,7 +27,7 @@ Credits:
 ### Quick Source Initialization ###
 ```bash
 - HorizonDroid A13 (Ready)
-repo init -u https://github.com/HorizonDroid-13 -b 13 --git-lfs
+repo init -u https://github.com/HorizonDroid-13/manifest.git -b 13 --git-lfs
 repo sync -c -j$(nproc --all) --force-sync --no-clone-bundle --no-tags
 ```
 [More build information](https://github.com/HorizonDroid-13/manifest)
